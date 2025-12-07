@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4C1mlM2JDU=",
+  "success": true,
+  "projectFilePath": "D:\\SideProjects\\C#\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stron\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}
